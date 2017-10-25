@@ -4,13 +4,16 @@ title: Chickens Versus Pigs
 
 ## Chickens Versus Pigs
 
-This is a stub. [Help our community expand it](https://github.com/freeCodeCamp/guide-articles/tree/master/articles/Agile/Chickens-Versus-Pigs/index.md).
+A Pig and a Chicken are walking down the road.
+The Chicken says: "Hey Pig, I was thinking we should open a restaurant!"
+Pig replies: "Hm, maybe, what would we call it?"
+The Chicken responds: "How about 'ham-n-eggs'?"
+The Pig thinks for a moment and says: "No thanks. I'd be committed, but you'd only be involved."
 
-[This quick style guide will help ensure your pull request gets accepted](https://github.com/freeCodeCamp/guide-articles/blob/master/README.md).
+Sometimes, the story is presented as a riddle:
 
-<!-- The article goes here, in GitHub-flavored Markdown. Feel free to add YouTube videos, images, and CodePen/JSBin embeds  -->
+Question: In a bacon-and-egg breakfast, what's the difference between the Chicken and the Pig?
+Answer: The Chicken is involved, but the Pig is committed!
 
 #### More Information:
-<!-- Please add any articles you think might be helpful to read before writing the article -->
-
-
+https://en.wikipedia.org/wiki/The_Chicken_and_the_Pig
